@@ -1,0 +1,25 @@
+theme = "lynx"
+title = "Fabian Gebhart"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Fabian Gebhart"
+  # headline = "Data Engineer, Python Enthusiast, 3D-Printing Geek, Map Lover and Mountainbike Daredevil."
+  image = "fgebhart.jpg"
+  links = [
+    { twitter = "https://twitter.com/FabianGebhart" },
+    { github = "https://github.com/fgebhart" },
+    { linkedin = "https://www.linkedin.com/in/fabian-gebhart" },
+    # { font-awesome = { href = "...tdb...", text = "My Blog" } },
+    # { link = { href = "...tdb...", text = "My Shop" } },
+    # { link = { href = "styles/", text = "All the link styles", target = "_self" } },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
