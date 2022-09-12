@@ -12,6 +12,7 @@ disableKinds = ["taxonomy", "term"]
     { twitter = { href = "https://twitter.com/FabianGebhart", text = "&nbsp Twitter"} },
     { github = { href = "https://github.com/fgebhart", text = "&nbsp Github"} },
     { linkedin = { href = "https://www.linkedin.com/in/fabian-gebhart", text = "&nbsp LinkedIn"} },
+    { reddit = { href = "https://www.printables.com/social/201896-fgebhart/models", text = "&nbsp Printables", icon = "link" } },
     # { font-awesome = { href = "...tdb...", text = "My Blog" } },
     # { link = { href = "...tdb...", text = "My Shop" } },
     # { link = { href = "styles/", text = "All the link styles", target = "_self" } },
