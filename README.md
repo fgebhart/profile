@@ -1,5 +1,5 @@
 # Profile
-This repo contains the source code for a simple hugo static webapp for hosting my profile/portfolio page using Github Pages.
+This repo contains the source code for a simple hugo static webapp for hosting portfolio page using Github Pages.
 
 ## How to apply modifications?
 1. Ensure you have `hugo` installed. (e.g. by running `brew install hugo` on mac)
