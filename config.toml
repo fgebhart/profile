@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term"]
   # headline = "Data Engineer, Python Enthusiast, 3D-Printing Geek, Map Lover and Mountainbike Daredevil."
   image = "fgebhart.jpg"
   links = [
-    { font-awesome = { href = "https://blog.fgebhart.dev", text = "My Blog" } },
+    { font-awesome = { href = "https://blog.fgebhart.dev", text = "&nbsp My Blog" } },
     { twitter = { href = "https://twitter.com/FabianGebhart", text = "&nbsp Twitter"} },
     { github = { href = "https://github.com/fgebhart", text = "&nbsp Github"} },
     { linkedin = { href = "https://www.linkedin.com/in/fabian-gebhart", text = "&nbsp LinkedIn"} },
